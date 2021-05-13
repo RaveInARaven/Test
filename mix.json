@@ -7,7 +7,7 @@
   "tracks": [
     {
       "name": "Kit L",
-      "path": "/sounds/1901_drumsleft.mp3",
+      "path": "https://github.com/RaveInARaven/Test/blob/main/sounds/1901_drumsleft.mp3",
       "gain": 0.5175,
       "pan": -1,
       "muted": false,
